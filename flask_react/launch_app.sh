@@ -1,5 +1,7 @@
 #!/bin/bash
 # update the key in index_server.py
+# sudo apt install xsel
+
 # start backend index server
 python ./index_server.py &
 echo "index_server running..."
