@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# update the key in index_server.py
 # start backend index server
 python ./index_server.py &
 echo "index_server running..."
