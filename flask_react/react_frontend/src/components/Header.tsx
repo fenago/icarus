@@ -2,11 +2,11 @@ const Header = () => {
   return (
     <header className='app-header'>
       <div className='app-header__main'>
-        <p>Llama Index</p>
+        <p>CIOL GPT</p>
       </div>
       <div className='app-header__sub'>
         <div>
-          <p>React-Flask Demo</p>
+          <p>All things CIOL</p>
         </div>
       </div>
     </header>
